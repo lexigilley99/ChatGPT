@@ -1,2 +1,2 @@
-# ChatGPT
+# Chat GPT
 Interactions with ChatGPT
